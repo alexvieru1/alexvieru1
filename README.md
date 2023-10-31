@@ -28,9 +28,6 @@ I am a usually funny person, I like to approach new challenges, I am a quite cal
 - TypeScript
 
 
-## 📫 How to reach me:
-- Email : vieru.alexandruu@gmail.com
-
 
 
 
